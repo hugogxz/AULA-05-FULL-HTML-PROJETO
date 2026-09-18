@@ -58,3 +58,7 @@ A proposta da enciclopédia é apresentar informações de forma simples e organ
 **Resident Evil**, seus jogos, personagens, imagens e demais propriedades relacionadas pertencem aos seus respectivos detentores de direitos, incluindo a **Capcom**.
 
 Este projeto possui finalidade exclusivamente **acadêmica e educacional**, não tendo qualquer objetivo comercial. Materiais externos presentes no site são utilizados apenas para fins ilustrativos e de estudo.
+
+Hugo Gabriel - Data de envio: 17/09/2026
+UNIPÊ - P2 - Desenvolvimento front-end para web - Docente: Israel Da Costa
+
